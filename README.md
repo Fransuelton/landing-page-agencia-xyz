@@ -7,10 +7,10 @@ Estrutura inicial do Projeto do curso DevQuest. A ideia do projeto é uma landin
 ## 📸 Demonstração do Projeto
 
 ### Versão Desktop
-<img src="design/agencia_xyz.gif">
+![GIF Desktop](design/agencia_xyz.gif)
 
 ### Versão Mobile
-<img src="design/agencia_xyz_responsivo.gif">
+![GIF Mobile](design/agencia_xyz_responsivo.gif)
 
 ## 📚 Aprendizado
 
