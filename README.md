@@ -1,9 +1,5 @@
 # Landing Page Agência XYZ
 
-![GitHub repo size](https://img.shields.io/github/repo-size/fransuelton/landing-page-agencia-xyz?label=Tamanho%20do%20Reposit%C3%B3rio&style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/fransuelton/landing-page-agencia-xyz?label=Linguagens&style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/fransuelton/landing-page-agencia-xyz?color=blue&label=%C3%9Altimo%20Commit&style=plastic)
-
 ## ✨ Sobre o Projeto
 
 Estrutura inicial do Projeto do curso DevQuest. A ideia do projeto é uma landing page de uma agência feita com Flex e Grid que conta com um layout responsivo e com navegação dentro do site.
