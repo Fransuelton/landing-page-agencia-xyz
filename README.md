@@ -8,10 +8,10 @@ Estrutura inicial do Projeto de Landing Page com Grid do curso DevQuest. Desenvo
 ## 📸 Demonstração do Projeto
 
 ### Versão Desktop
-![GIF Desktop](/design/agencia_xyz.gif)
+![GIF Desktop](design/agencia_xyz.gif)
 
 ### Versão Mobile
-![GIF Mobile](/design/agencia_xyz_responsivo.gif)
+![GIF Mobile](design/agencia_xyz_responsivo.gif)
 
 ## 📚 Aprendizado
 
