@@ -2,20 +2,23 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/fransuelton/landing-page-agencia-xyz?label=Tamanho%20do%20Reposit%C3%B3rio&style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/fransuelton/landing-page-agencia-xyz?label=Linguagens&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/fransuelton/landing-page-agencia-xyz?color=blue&label=%C3%9Altimo%20Commit&style=plastic)
 
-Estrutura inicial do Projeto de Landing Page com Grid do curso DevQuest. Desenvolvida após os módulos de HTML e CSS Utilizando Flex e Grid.
+Estrutura inicial do Projeto de Landing Page do curso DevQuest. A ideia do projeto é uma landing page de uma agência usando Flex e Grid.
 
 ## 📸 Demonstração do Projeto
 
 ### Versão Desktop
-![GIF Desktop](design/agencia_xyz.gif)
+![GIF Desktop](./design/agencia_xyz.gif)
 
 ### Versão Mobile
-![GIF Mobile](design/agencia_xyz_responsivo.gif)
+![GIF Mobile](./design/agencia_xyz_responsivo.gif)
 
 ## 📚 Aprendizado
 
-Com esse projeto consegui melhorar minhas habilidades com Flex e Grid, tendo uma melhor visão de como iniciar e fazer uma futura landing page usando esses conceitos de CSS.
+Com esse projeto consegui melhorar minhas habilidades com Flex e Grid, tendo uma melhor visão de como iniciar e fazer uma futura landing page usando esses conceitos. Também aprendi uma forma de animar um elemento usando apenas CSS, descartando o uso do JavaScript.
+
+Essa animação pode ser vista na versão mobile do site, onde temos um menu "hamburguer" que engloba as seções para navegar pelo site.
 
 ## 💻 Tecnologias Utilizadas
 
@@ -31,8 +34,7 @@ Com esse projeto consegui melhorar minhas habilidades com Flex e Grid, tendo uma
 ```
 git clone url-do-repositorio
 ```
-2° Ou acesse o deploy do projeto [Clicando aqui](https://fransuelton.github.io/formulario-de-cadastro/).
+2° Ou acesse o deploy do projeto [Clicando aqui](https://fransuelton.github.io/landing-page-agencia-xyz/).
 
-<br>
 
 ## Obrigado por visitar meu repositório!❤️
